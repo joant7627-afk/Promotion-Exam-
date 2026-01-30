@@ -1,2 +1,4 @@
-# Promotion-Exam-
-Promotion Exam repository 
+-Exam title: promotion exam
+- course name: python (programming language 2)
+-student number:2025556767
+-Exam instructions:
